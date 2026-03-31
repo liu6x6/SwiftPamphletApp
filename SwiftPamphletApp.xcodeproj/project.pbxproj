@@ -3543,7 +3543,6 @@
 			isa = PBXGroup;
 			children = (
 				08D223032D92B750008F40C6 /* 历史 */,
-				08D5A0122DF3454300B3F8F8 /* 教育 */,
 				08D1E36A2DA6AEEC0098BB3E /* 视觉 */,
 			);
 			path = Knowledge;
@@ -3555,13 +3554,6 @@
 				08B9A1402D93766B00E8A959 /* 中国时间轴 */,
 			);
 			path = "历史";
-			sourceTree = "<group>";
-		};
-		08D5A0122DF3454300B3F8F8 /* 教育 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "教育";
 			sourceTree = "<group>";
 		};
 		08D8EFE32BED74D900AA0020 /* View */ = {
