@@ -43,7 +43,7 @@ visionOS/
 
 首先，我想确认一下我的理解是否正确，并提出我的计划：
 
-**目标:** 遍历 `SwiftPamphletApp/Resource/Guide/appstore/` 目录下的所有子目录，读取每个空的 Markdown 文件，并根据文件名生成相关内容填充进去。
+**目标:** 遍历 `SwiftPamphletApp/Resource/Guide/appstore/SwiftData` 目录下的所有子目录，读取每个空的 Markdown 文件，并根据文件名生成相关内容填充进去。
 
 **我的计划:**
 
@@ -77,3 +77,8 @@ WheelPicker(ap).md
 请补充相关的文件
 
 数据集合组件 目录下面的子目录 也全部是空的
+
+再 添加下面三个相关的主题文档
+FileProvieder
+VPN networkExtension
+密码自动填充
